@@ -1,0 +1,2 @@
+Réponse 6 :
+je constate que le code est exécuté en parallèle.
